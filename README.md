@@ -9,10 +9,7 @@ I graduated from Rutgers University in 2018 with a degree in accounting. I spent
 
 You can find more details about me and ways to reach out at [chetankini.com](https://www.chetankini.com/)!
 
-Here's everything I'm working on:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdkini&show_icons=true&theme=gruvbox)
-
+### Here's everything I'm working on:
 ## Web Apps
 - 🤝 Recurse Connect - A Recurse Center tool that uses graph algorithms to connect users [<i>Golang, React + TypeScript, Python</i>]
 
