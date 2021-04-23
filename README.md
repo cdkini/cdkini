@@ -1,9 +1,9 @@
 ## Hi, I'm Chetan 👋
 
-I graduated from Rutgers University in 2018 with a degree in accounting. I spent two years working as a consultant at Deloitte and after learning Python to automate processes and improve data analysis, I've decided to pivot my career towards software development. I'm currently in a batch at the [Recurse Center](https://www.recurse.com/) and have spent most of it writing tools for the Recurse community in Go, Python, and TypeScript.
+I graduated from Rutgers University in 2018 with a degree in accounting. I spent two years working as a consultant at Deloitte and after learning Python to automate processes and improve data analysis, I've decided to pivot my career towards software development. I just wrapped up a batch at the [Recurse Center](https://www.recurse.com/), where I spent most of my time writing tools for the Recurse community and working to get better at pair programming.
 
-- 🌱 Currently learning: React & TypeScript
-- 💻 Let's talk about: vim, tmux, fzf, rg, and all the other fun tools living in the terminal
+- 🌱 Currently learning: Postgres but also dabbling into some NoSQL!
+- 💻 Let's talk about: vim, tmux, fzf, rg, and all the other wonderful tools living in the terminal
 - 👯 I’m looking to work as a **Backend Developer**
 
 
@@ -11,16 +11,18 @@ You can find more details about me and ways to reach out at [chetankini.com](htt
 
 ### Here's everything I'm working on:
 ## Web Apps
-- 🤝 Recurse Connect - A Recurse Center tool that uses graph algorithms to connect users [<i>Golang, React + TypeScript, Python</i>]
+- 🤝 [Recurse Connect](https://www.github.com/cdkini/recurse-connect) - A Recurse Center tool that uses graph algorithms to connect users [<i>Golang, React + TypeScript, Python</i>]
+- 🔒 [URLWarden](https://www.github.com/cdkini/urlwarden) - A URL shortening service built with simplicity, scalability, and security in mind [<i>Flask + Python, JavaScript</i>]
 
 ## Bots
-- 🧠 AlgoBot - A Zulip bot used to schedule mock interviews and create study plans for the Recurse community [<i>Golang, Python</i>]
-- 🕴️ CareerBot - A Discord bot that recommends job listings and keeps track of job applications [<i>Python</i>]
+- 🧠 [AlgoBot](https://www.github.com/cdkini/algobot) - A Zulip bot used to schedule mock interviews and create study plans for the Recurse community [<i>Golang, Python</i>]
+- 🕴️ [CareerBot](https://www.github.com/cdkini/careerbot) - A Discord bot that recommends job listings and keeps track of job applications [<i>Python</i>]
 
 ## CLI / TUI
-- ⏰ clocviz - A tool to create interactive dashboards based on the contents and composition of your codebases [<i>Golang, JavaScript</i>]
-- 🌻 okra - An interpreter for a toy multiparadigm scripting language [<i>Golang</i>]
-- 👁️ omni - A version control system inspired by Git [<i>Java</i>]
+- ⏰ [clocviz](https://www.github.cdom/cdkini/clocviz) - A tool to create interactive dashboards based on the contents and composition of your codebases [<i>Golang, JavaScript</i>]
+- 🌻 [Okra](https://www.github.cdom/cdkini/okra) - An interpreter for a toy multiparadigm scripting language [<i>Golang</i>]
+- 👁️ [omni](https://www.github.cdom/cdkini/omni) - A version control system inspired by Git [<i>Java</i>]
 
 ## Misc
-- 💸 taxOCR (private repo) - A series of scripts used to automate the parsing of data for volunteer income tax assistance [<i>Python</i>]
+- 💸 taxOCR [private] - A series of scripts used to automate the parsing of data for volunteer income tax assistance [<i>Python</i>]
+- 📆 [Advent of Code](https://www.github.cdom/cdkini/advent-of-code) - My ultimate goal is to complete all yearly challenges in different languages. 2019 Python 🐍 | 2020 Golang 🐹 
