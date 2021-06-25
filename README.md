@@ -1,11 +1,9 @@
 ## Hi, I'm Chetan 👋
 
-I graduated from Rutgers University in 2018 with a degree in accounting. I spent two years working as a consultant at Deloitte and after learning Python to automate processes and improve data analysis, I've decided to pivot my career towards software development. I just wrapped up a batch at the [Recurse Center](https://www.recurse.com/), where I spent most of my time writing tools for the Recurse community and working to get better at pair programming.
+I graduated from Rutgers University in 2018 with a degree in accounting. I spent two years working as a consultant at Deloitte and after learning Python to automate processes and improve data analysis, I've decided to pivot my career towards software development. I just wrapped up a batch at the [Recurse Center](https://www.recurse.com/) in early 2021 and now work at [Superconductive](https://www.superconductive.com), where I'm working on [Great Expectations](https://github.com/great-expectations/great_expectations/)!
 
-- 🌱 Currently learning: Postgres but also dabbling into some NoSQL!
+- 🌱 Currently learning: Some functional programming!
 - 💻 Let's talk about: vim, tmux, fzf, rg, and all the other wonderful tools living in the terminal
-- 👯 I’m looking to work as a **Backend Developer**
-
 
 You can find more details about me and ways to reach out at [chetankini.com](https://www.chetankini.com/)!
 
