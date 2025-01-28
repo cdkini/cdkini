@@ -4,5 +4,5 @@ I graduated from Rutgers University in 2018 with a degree in accounting. I spent
 
 Currently:
 - Exploring the TypeScript backend ecosystem ([express](https://github.com/expressjs/express) and [kyseley](https://github.com/kysely-org/kysely))
-- Brushing up on React fundamentals
+- Learning more about distributed systems
 - Diving into PostgreSQL internals
