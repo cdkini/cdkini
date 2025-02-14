@@ -2,7 +2,8 @@
 
 I graduated from Rutgers University in 2018 with a degree in accounting. I spent two years working as a consultant at Deloitte and after learning Python to automate processes and improve data analysis, I've decided to pivot my career towards software development. I wrapped up a batch at the [Recurse Center](https://www.recurse.com/) in early 2021 and now work fulltime on [Great Expectations](https://github.com/great-expectations/great_expectations/pulls?q=is%3Apr+is%3Amerged+author%3Acdkini+)!
 
-Currently:
-- Exploring the TypeScript backend ecosystem ([express](https://github.com/expressjs/express) and [kyseley](https://github.com/kysely-org/kysely))
-- Learning more about distributed systems and system design
-- Diving into PostgreSQL internals
+Currently tinkering with:
+- My Vim config
+- A shortest path finder for Wikipedia hyperlinks
+- Anything and everything distrubted systems
+- PostgreSQL internals and some good ol DDIA
