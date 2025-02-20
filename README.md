@@ -5,5 +5,5 @@ I graduated from Rutgers University in 2018 with a degree in accounting. I spent
 Currently tinkering with:
 - My Vim config
 - A shortest path finder for Wikipedia hyperlinks
-- Anything and everything distrubted systems
+- Anything and everything distributed systems
 - PostgreSQL internals and some good ol DDIA
